@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348108271940",
+    "project_id": "guardianeyemain",
+    "storage_bucket": "guardianeyemain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348108271940:android:9b3d1f68c7963deeb36711",
+        "android_client_info": {
+          "package_name": "com.example.guardianeye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sgS1GFmWTGIBDqqI0OYRqpTjBXucaEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
